@@ -40,3 +40,9 @@ Coleta dados especifios de uma página
 printf("salve")
 
 ```
+
+## checklist 
+
+- [x] Membrers
+- [ ] Payments
+- [ ] Suport
