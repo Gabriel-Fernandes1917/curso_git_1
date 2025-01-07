@@ -14,3 +14,9 @@ Coleta dados especifios de uma página
 * Buscar item
 * Salvar item
 * Salvar HTML
+
+### Melhorias
+
+1. Bug de cor
+2. Compatibilidade Linux
+3. Otimização
