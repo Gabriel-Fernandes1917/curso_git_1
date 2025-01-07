@@ -18,5 +18,7 @@ Coleta dados especifios de uma página
 ### Melhorias
 
 1. Bug de cor
+    1. Home
+    2. Suport 
 2. Compatibilidade Linux
 3. Otimização
